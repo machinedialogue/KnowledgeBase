@@ -4,4 +4,8 @@ git log --graph --oneline --all --decorate
 
 git clean -xfd
 
+git config --global alias.s status
+
 git submodule update --remote {sub module name}
+
+
