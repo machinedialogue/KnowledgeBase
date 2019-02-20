@@ -12,6 +12,11 @@ git reset --hard HEAD~1
 
 git reset --soft HEAD~1
 
+<b>Unstage:</b>
+
+git reset -- example.txt
+
+
 git push -u origin {local branch name}
 
 git config --global alias.s status
