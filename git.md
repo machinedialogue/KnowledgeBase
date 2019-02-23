@@ -23,4 +23,7 @@ git config --global alias.s status
 
 git submodule update --remote {sub module name}
 
+<b>How to tidy up your merge requests with Git</b>
+https://about.gitlab.com/2019/02/07/start-using-git/
+
 
