@@ -19,3 +19,7 @@ Reading Q:
 
 https://docs.docker.com/registry/deploying/#considerations-for-air-gapped-registries
 
+<b>How To Build Your Containerization Strategy</b>
+
+https://dockercon2018.hubs.vidyard.com/watch/X43ys6KF3BmHdLtYN7zb8N
+
