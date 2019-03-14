@@ -4,6 +4,12 @@ git log --graph --oneline --all --decorate
 
 git clean -xfd
 
+You don't have to modify the .gitignore: you can force the addition of those files:
+
+force the addition of files included in .gitignore
+
+git add --force -- file1 file2
+
 <b>Delete the most recent commit:</b>
 
 git reset --hard HEAD~1
