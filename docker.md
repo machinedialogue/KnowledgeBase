@@ -23,3 +23,7 @@ https://docs.docker.com/registry/deploying/#considerations-for-air-gapped-regist
 
 https://dockercon2018.hubs.vidyard.com/watch/X43ys6KF3BmHdLtYN7zb8N
 
+Build Tools 2015
+
+https://github.com/Microsoft/dotnet-framework-docker/issues/23
+
