@@ -13,7 +13,10 @@ How to containerize the .NET Framework web apps with Windows Containers and Dock
 
 https://github.com/dotnet-architecture/eShopModernizing/wiki/02.-How-to-containerize-the-.NET-Framework-web-apps-with-Windows-Containers-and-Docker
 
-Reading Q:
+<b>Reading Q:</b>
+
+https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/docker-application-development-process/docker-app-development-workflow
+
 
 <b>Considerations for air-gapped registries</b>
 
