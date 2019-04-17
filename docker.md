@@ -13,7 +13,9 @@ How to containerize the .NET Framework web apps with Windows Containers and Dock
 
 https://github.com/dotnet-architecture/eShopModernizing/wiki/02.-How-to-containerize-the-.NET-Framework-web-apps-with-Windows-Containers-and-Docker
 
-<b>sql 2016</b>
+<b>SQL Server 2016</b>
+
+https://github.com/Microsoft/mssql-docker/tree/master/windows
 
 docker run -d -p 1533:1533 -e sa_password=<SA_PASSWORD> -e ACCEPT_EULA=Y microsoft/mssql-server-windows-developer:2016-sp1
 
