@@ -6,3 +6,5 @@ https://angular.io/guide/quickstart
 
 https://angular.io/tutorial
 
+next start at routing
+
