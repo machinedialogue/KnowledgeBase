@@ -8,3 +8,8 @@ https://angular.io/tutorial
 
 next start at routing
 
+Architecture overview
+
+
+https://angular.io/guide/architecture
+
