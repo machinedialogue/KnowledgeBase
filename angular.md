@@ -8,7 +8,7 @@ https://angular.io/tutorial
 
 next start at routing
 
-Architecture overview
+<b>Architecture overview</b>
 
 
 https://angular.io/guide/architecture
