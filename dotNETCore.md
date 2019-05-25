@@ -2,6 +2,9 @@
 
 https://docs.microsoft.com/en-us/dotnet/core/get-started?tabs=linux
 
+<b>Create a web app with ASP.NET Core MVC</b>
+
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-2.2
 
 <b>Containerize a .NET Core app</b>
 
