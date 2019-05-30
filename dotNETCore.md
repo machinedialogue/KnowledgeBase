@@ -1,3 +1,7 @@
+<b>ASP.NET Core fundamentals</b>
+
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-2.2&tabs=linux
+
 <b>Create a web API with ASP.NET Core MVC</b>
 
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio
