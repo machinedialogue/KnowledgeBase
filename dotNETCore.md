@@ -1,3 +1,7 @@
+<b>Response caching in ASP.NET Core</b>
+
+https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response?view=aspnetcore-2.2
+
 <b>ASP.NET Core fundamentals</b>
 
 https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-2.2&tabs=linux
