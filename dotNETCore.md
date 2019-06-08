@@ -1,3 +1,8 @@
+<b>Microsoft Ignite 2017
+Implement microservices patterns with .NET Core and Docker containers</b>
+
+https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3317
+
 <b>Response caching in ASP.NET Core</b>
 
 https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response?view=aspnetcore-2.2
