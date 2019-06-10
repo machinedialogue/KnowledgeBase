@@ -1,3 +1,6 @@
+https://www.aaron-powell.com/posts/2019-04-04-debugging-dotnet-in-docker-with-vscode/
+
+
 <b>Use the Angular project template with ASP.NET Core</b>
 
 https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/angular?view=aspnetcore-2.2&tabs=netcore-cli
