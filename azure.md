@@ -4,3 +4,7 @@ https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-scenario-social-ser
 
 <b>Azure Logic Apps</b>
 https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview
+
+
+https://azure.microsoft.com/en-us/services/
+
