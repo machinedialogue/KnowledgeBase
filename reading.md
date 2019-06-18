@@ -11,3 +11,9 @@ https://github.com/dotnet-architecture
 <b>nuget Package creation workflow</b>
 
 https://docs.microsoft.com/en-us/nuget/create-packages/overview-and-workflow
+
+Past Items:
+
+<b>Mocks Aren't Stubs</b>
+
+https://martinfowler.com/articles/mocksArentStubs.html
