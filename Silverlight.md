@@ -9,3 +9,8 @@ https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-wi
 <b>Line of Business Sample</b>
 
 https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/ff536015%28v%3dvs.95%29
+
+
+<b>Authentication, Roles, and Profiles</b>
+
+https://docs.microsoft.com/en-us/previous-versions/dotnet/wcf-ria/ee707361(v=vs.91)
