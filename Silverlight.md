@@ -14,3 +14,7 @@ https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-wi
 <b>Authentication, Roles, and Profiles</b>
 
 https://docs.microsoft.com/en-us/previous-versions/dotnet/wcf-ria/ee707361(v=vs.91)
+
+<b>WCF Data Services (Silverlight)</b>
+
+https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc838234(v=vs.95)
