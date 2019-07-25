@@ -18,3 +18,7 @@ https://docs.microsoft.com/en-us/previous-versions/dotnet/wcf-ria/ee707361(v=vs.
 <b>WCF Data Services (Silverlight)</b>
 
 https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc838234(v=vs.95)
+
+
+https://www.codeproject.com/Articles/841700/Migrating-from-Silverlight-to-AngularJS
+
