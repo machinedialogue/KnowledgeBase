@@ -22,3 +22,7 @@ https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-wi
 
 https://www.codeproject.com/Articles/841700/Migrating-from-Silverlight-to-AngularJS
 
+<b>WCF Data Services Tasks for Silverlight</b>
+
+https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/ff650919(v=vs.95)
+
