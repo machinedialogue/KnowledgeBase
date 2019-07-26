@@ -8,6 +8,9 @@ https://github.com/dotnet-architecture
 
 <b>Microservice</b>
 
+<b>Kestrel</b> web server implementation in ASP.NET Core
+
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-2.2
 
 <b>PWA</b>
 MS Edge: Get started with Progressive Web Apps
