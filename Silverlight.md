@@ -23,6 +23,10 @@ https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-wi
 
 https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/ff650919(v=vs.95)
 
+<b>Add, Modify, and Delete Entities (WCF Data Services)</b>
+
+https://docs.microsoft.com/en-us/dotnet/framework/data/wcf/how-to-add-modify-and-delete-entities-wcf-data-services
+
 <b>Migrating to Angular</b>
 
 https://www.codeproject.com/Articles/841700/Migrating-from-Silverlight-to-AngularJS
