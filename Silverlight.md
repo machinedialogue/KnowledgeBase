@@ -36,3 +36,7 @@ https://www.codeproject.com/Articles/841700/Migrating-from-Silverlight-to-Angula
 
 https://proquestcombo-safaribooksonline-com.mcpl.idm.oclc.org/book/web-development/silverlight/9781430235002
 
+Sample Code:
+
+https://github.com/Apress/pro-business-apps-w-silverlight-5/tree/master/9781430235002
+
