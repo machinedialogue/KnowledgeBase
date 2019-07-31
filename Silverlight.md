@@ -40,3 +40,8 @@ Sample Code:
 
 https://github.com/Apress/pro-business-apps-w-silverlight-5/tree/master/9781430235002
 
+
+<b> Silverlight 4 + RIA Services –  Exposing OData Services</b>
+
+https://blogs.msdn.microsoft.com/brada/2010/03/16/silverlight-4-ria-services-ready-for-business-exposing-odata-services/
+
