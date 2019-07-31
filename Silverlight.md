@@ -31,3 +31,8 @@ https://docs.microsoft.com/en-us/dotnet/framework/data/wcf/how-to-add-modify-and
 
 https://www.codeproject.com/Articles/841700/Migrating-from-Silverlight-to-AngularJS
 
+
+<b>Book - Pro Business Applications with Silverlight 5 </b>
+
+https://proquestcombo-safaribooksonline-com.mcpl.idm.oclc.org/book/web-development/silverlight/9781430235002
+
