@@ -46,5 +46,9 @@ https://github.com/Apress/pro-business-apps-w-silverlight-5/tree/master/97814302
 https://blogs.msdn.microsoft.com/brada/2010/03/16/silverlight-4-ria-services-ready-for-business-exposing-odata-services/
 
 <b>Exposing JSON endpoint for DomainService on WCF Ria Services</b>
+
 https://blogs.msdn.microsoft.com/xusun/2010/08/25/exposing-json-endpoint-for-domainservice-on-wcf-ria-services/
+
+<b>Fiddler - WCF-Binary-Message-Inspector</b>
+https://github.com/waf/WCF-Binary-Message-Inspector
 
