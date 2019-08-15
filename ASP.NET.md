@@ -2,6 +2,10 @@
 
 https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/
 
+<b>Master Details CRUD with MVC 5</b>
+
+https://forums.asp.net/t/2136546.aspx?Master+Details+CRUD+with+MVC+5
+
 <b>ASP.NET Identity</b>
 
 https://docs.microsoft.com/en-us/aspnet/identity/overview/getting-started/introduction-to-aspnet-identity
