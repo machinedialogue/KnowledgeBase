@@ -6,6 +6,11 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introductio
 
 https://forums.asp.net/t/2136546.aspx?Master+Details+CRUD+with+MVC+5
 
+<b>Advance master details entry form in asp.net MVC</b>
+
+
+http://www.dotnetawesome.com/2016/07/advance-master-details-entry-form-in-mvc.html
+
 <b>ASP.NET Identity</b>
 
 https://docs.microsoft.com/en-us/aspnet/identity/overview/getting-started/introduction-to-aspnet-identity
