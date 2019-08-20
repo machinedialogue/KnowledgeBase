@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/17107334/same-view-for-both-create-and-edit-in-mvc4
+
 <b> ASP.NET MVC 5 </b>
 
 https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/
