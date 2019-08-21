@@ -1,5 +1,9 @@
 https://getbootstrap.com/
 
+docker
+
+aws
+
 <b>.NET Architecture Guides</b>
 
 https://dotnet.microsoft.com/learn/dotnet/architecture-guides
