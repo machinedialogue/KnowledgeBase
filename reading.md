@@ -1,14 +1,18 @@
 TypeScript
 
-https://getbootstrap.com/
-
 css
+
+EF Core
+
+javascript es2016
 
 docker
 
 aws
 
-javascript es2016
+
+
+https://getbootstrap.com/
 
 <b>.NET Architecture Guides</b>
 
