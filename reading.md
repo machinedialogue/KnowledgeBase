@@ -8,6 +8,8 @@ docker
 
 aws
 
+javascript es2016
+
 <b>.NET Architecture Guides</b>
 
 https://dotnet.microsoft.com/learn/dotnet/architecture-guides
