@@ -1,3 +1,6 @@
+
+IE, Edge, Chrome, FF - catch up
+
 TypeScript
 
 css
@@ -9,7 +12,6 @@ javascript es2016
 docker
 
 aws
-
 
 
 https://getbootstrap.com/
