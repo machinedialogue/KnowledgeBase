@@ -12,6 +12,8 @@ javascript es2016
 docker
 
 aws
+  aws tools for windows
+  windows powershell for asw 
 
 
 https://getbootstrap.com/
