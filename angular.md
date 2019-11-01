@@ -19,3 +19,7 @@ ng g component modules/maintenance/MaintenanceWorkList --module=modules/maintena
 Reading List:
 
 module
+
+@Injectable({
+  providedIn: 'root'
+})
