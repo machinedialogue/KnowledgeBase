@@ -15,3 +15,7 @@ https://angular2-tree.readme.io/docs/styling
 create component in a module:
 
 ng g component modules/maintenance/MaintenanceWorkList --module=modules/maintenance/maintenance.module.ts
+
+Reading List:
+
+module
