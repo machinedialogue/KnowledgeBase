@@ -1,0 +1,2 @@
+Create AMI 
+Create Image
