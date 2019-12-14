@@ -1,3 +1,8 @@
+<b>Reading Q:<b>
+  
+ https://angular.io/guide/form-validation
+ <hr>
+
 <b>Architecture overview</b>
 
 https://angular.io/guide/architecture
