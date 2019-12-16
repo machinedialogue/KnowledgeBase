@@ -4,6 +4,11 @@
  
  https://blog.bitsrc.io/one-way-property-binding-mechanism-in-angular-f1b25cf00de7
  
+module
+
+@Injectable({
+  providedIn: 'root'
+})
  
  <hr>
 
@@ -25,10 +30,26 @@ create component in a module:
 
 ng g component modules/maintenance/MaintenanceWorkList --module=modules/maintenance/maintenance.module.ts
 
-Reading List:
 
-module
+<hr>
 
-@Injectable({
-  providedIn: 'root'
-})
+<b>Angular material table column resize is here</b>
+
+https://stackblitz.com/edit/angular-rtfc5v
+
+https://stackoverflow.com/questions/45417248/angular-4-material-table-highlight-a-row
+
+https://github.com/mattlewis92/angular-calendar
+
+https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/
+
+<b>Active Directory Authorization Workflow</b>
+
+https://gist.github.com/JaimeStill/468fca767ffabb977346eff81e2ace0c
+
+<b>Angular Material mat-table Row Grouping</b>
+
+
+https://stackblitz.com/edit/angular-mattable-with-groupheader?file=app/table-basic-example.html
+https://stackoverflow.com/questions/47936183/angular-file-upload
+https://stackoverflow.com/questions/47034375/angular-file-upload-progress-percentage
