@@ -1,6 +1,10 @@
 <b>Reading Q:<b>
   
  https://angular.io/guide/form-validation
+ 
+ https://blog.bitsrc.io/one-way-property-binding-mechanism-in-angular-f1b25cf00de7
+ 
+ 
  <hr>
 
 <b>Architecture overview</b>
