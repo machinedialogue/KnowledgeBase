@@ -1,3 +1,8 @@
+<b>Authenticate users with WS-Federation in ASP.NET Core</b>
+
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/ws-federation?view=aspnetcore-3.1
+
+
 https://www.aaron-powell.com/posts/2019-04-04-debugging-dotnet-in-docker-with-vscode/
 
 
