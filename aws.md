@@ -1,8 +1,10 @@
-TODO:
+<b>TODO:</b>
+
 Create AMI 
 Create Image
 
-Read:
+<b>Read:</b>
+
 https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 
 
