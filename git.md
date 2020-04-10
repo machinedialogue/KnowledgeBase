@@ -26,6 +26,8 @@ git reset -- example.txt
 git push -u origin {local branch name}
 
 git config --global alias.s status
+git config --global alias.cm checkout master
+
 
 git submodule update --remote {sub module name}
 
