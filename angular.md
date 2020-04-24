@@ -24,6 +24,10 @@ https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/
 
 <b>Style</b>
 
+https://stackoverflow.com/questions/45350716/detect-window-size-using-angular-4/45350792
+
+
+
 https://angular2-tree.readme.io/docs/styling
 
 create component in a module:
