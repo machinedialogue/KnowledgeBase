@@ -1,5 +1,7 @@
 <b>TODO:</b>
 
+Runnign .NET app on AWS.
+
 Create AMI 
 Create Image
 
