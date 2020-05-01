@@ -1,3 +1,12 @@
+<b>Authentication and authorization for SPAs</b>
+
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-api-authorization?view=aspnetcore-3.1
+
+<b>Facebook, Google, and external provider authentication in ASP.NET Core</b>
+
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/?view=aspnetcore-3.1&tabs=visual-studio
+
+
 <b>Authenticate users with WS-Federation in ASP.NET Core</b>
 
 https://docs.microsoft.com/en-us/aspnet/core/security/authentication/ws-federation?view=aspnetcore-3.1
