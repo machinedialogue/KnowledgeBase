@@ -2,6 +2,8 @@
 
 Runnign .NET app on AWS.
 
+create a virtual network so that 2 machines can talk to eachother
+
 Create AMI 
 Create Image
 
