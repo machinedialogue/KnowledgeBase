@@ -52,3 +52,10 @@ Q:
 
 https://identityserver4.readthedocs.io/en/latest/quickstarts/8_aspnet_identity.html
 
+<b>Ref:</b>
+
+<b>Host ASP.NET Core in a Windows Service</b>
+
+
+https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/windows-service?view=aspnetcore-3.1&tabs=visual-studio
+
