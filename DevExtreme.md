@@ -1,6 +1,7 @@
 
 https://devexpress.github.io/ThemeBuilder/
 
+https://supportcenter.devexpress.com/ticket/details/t518178/datagrid-setting-up-for-server-side-paging
 
 
 <b>MVC</b>
