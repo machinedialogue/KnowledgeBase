@@ -2,6 +2,9 @@
 
 https://stackoverflow.com/questions/50935730/asp-net-core-2-1-kestrel-how-to-disable-https
 
+dotnet run --urls=http://localhost:5001/
+
+
 
 <b>Authentication and authorization for SPAs</b>
 
