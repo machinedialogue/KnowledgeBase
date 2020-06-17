@@ -1,3 +1,8 @@
+<b>kestrel</b>
+
+https://stackoverflow.com/questions/50935730/asp-net-core-2-1-kestrel-how-to-disable-https
+
+
 <b>Authentication and authorization for SPAs</b>
 
 https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-api-authorization?view=aspnetcore-3.1
