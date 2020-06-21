@@ -1,3 +1,6 @@
+<b>What is OpenShift?</b> https://www.youtube.com/watch?v=KTN_QBuDplo
+
+
 https://kubernetes.io/docs/concepts/
 
 https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/
