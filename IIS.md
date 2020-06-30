@@ -1,5 +1,7 @@
 https://techcommunity.microsoft.com/t5/iis-support-blog/setup-iis-with-url-rewrite-as-a-reverse-proxy-for-real-world/ba-p/846222
 
+https://www.iis.net/downloads/microsoft/application-request-routing
+
 https://www.iis.net/downloads/microsoft/url-rewrite
 
 
