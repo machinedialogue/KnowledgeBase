@@ -1,3 +1,8 @@
+Angular-cli AOT build fails with “FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory”
+
+
+- node --max_old_space_size=4096 ./node_modules/@angular/cli/bin/ng serve
+
 <b>Reading Q:<b>
   
  https://angular.io/guide/form-validation
