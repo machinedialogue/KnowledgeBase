@@ -1,3 +1,11 @@
+
+<b>host in asp.net core self host </b>
+
+* https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-3.1&tabs=windows
+
+* https://www.brechtbaekelandt.net/blog/post/angular-routing-in-aspnet-core-2-without-iis-rewrite
+
+
 Angular-cli AOT build fails with “FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory”
 
 
