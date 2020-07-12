@@ -12,6 +12,8 @@ dotnet run --urls=http://localhost:5001/
 * https://docs.microsoft.com/en-us/dotnet/core/deploying/
 * https://stackoverflow.com/questions/38755516/how-to-change-the-port-number-for-asp-net-core-app
 * https://stackoverflow.com/questions/37365277/how-to-specify-the-port-an-asp-net-core-application-is-hosted-on
+* FireFox, Windows Security and Kestrel on ASP.NET Core
+  * https://weblog.west-wind.com/posts/2019/Nov/14/FireFox-Windows-Security-and-Kestrel-on-ASPNET-Core
 --
 
 
