@@ -1,8 +1,10 @@
 <b>kestrel</b>
 
-https://stackoverflow.com/questions/50935730/asp-net-core-2-1-kestrel-how-to-disable-https
+* https://stackoverflow.com/questions/50935730/asp-net-core-2-1-kestrel-how-to-disable-https
 
-dotnet run --urls=http://localhost:5001/
+* dotnet run --urls=http://localhost:5001/
+
+* https://stackoverflow.com/questions/8662024/how-do-i-capture-the-output-of-a-script-if-it-is-being-ran-by-the-task-scheduler/8662086
 
 <b>asp.net core:</b>
 
