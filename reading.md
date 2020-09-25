@@ -4,6 +4,8 @@ Gitlab
 
 https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1
 
+IIS/CAC authentication
+
 webpack
 
 IE, Edge, Chrome, FF - catch up
