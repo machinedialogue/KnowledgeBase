@@ -3,3 +3,9 @@ DoD Enterprise DevSecOps Reference Design
 
 A catalog of Iron Bank containers
  - https://ironbank.dsop.io/ironbank/repomap
+ 
+ 
+ https://software.af.mil/training/
+ 
+  - DoD Enterprise DevSecOps Architecture
+    - https://media.dau.edu/media/1_bk2141rg
