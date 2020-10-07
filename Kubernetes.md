@@ -1,3 +1,7 @@
+Dev Environment:
+  - https://kubernetes.io/blog/2018/05/01/developing-on-kubernetes/
+
+
 <b>What is OpenShift?</b> https://www.youtube.com/watch?v=KTN_QBuDplo
 
 
