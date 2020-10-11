@@ -14,5 +14,6 @@ A catalog of Iron Bank containers
  Cmds:
  
  sudo docker load --input nodejs14-14.11.0.tar
+ 
  sudo docker run -it --rm 2e1507c23fc664958608ad8875f9246eb9b60350db3af5ad553476de58f6c50f
 
