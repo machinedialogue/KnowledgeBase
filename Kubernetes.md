@@ -1,3 +1,6 @@
+MEAN
+ - Hands-on guide: developing and deploying Node.js apps in Kubernetes - https://learnk8s.io/nodejs-kubernetes-guide
+
 Dev Environment:
   - https://kubernetes.io/blog/2018/05/01/developing-on-kubernetes/
 
