@@ -40,6 +40,8 @@ https://github.com/Microsoft/dotnet-framework-docker/issues/23
 
 <b>cmds: </b>
 
+Image from tar file : 
+docker load --input node.tar
 
 sudo docker run -it --rm -v `pwd`:`pwd` -w `pwd` node bash
 
