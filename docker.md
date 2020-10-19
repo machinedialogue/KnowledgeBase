@@ -38,6 +38,8 @@ Build Tools 2015
 https://github.com/Microsoft/dotnet-framework-docker/issues/23
 
 
-cmds:
+<b>cmds: </b>
+
+
 sudo docker run -it --rm -v `pwd`:`pwd` -w `pwd` node bash
 
