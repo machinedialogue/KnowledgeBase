@@ -15,3 +15,8 @@ https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkth
 <b>Kubernetes on Docker for Mac and Docker for Windows</b>
 
 https://github.com/dockersamples/docker-fifth-birthday/blob/master/kubernetes-desktop.md
+
+Q:
+
+An Introduction to Helm 
+ - https://www.youtube.com/watch?v=Zzwq9FmZdsU&t=2s
