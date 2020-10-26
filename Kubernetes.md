@@ -7,6 +7,9 @@ Dev Environment:
 
 Install minikube
  - https://minikube.sigs.k8s.io/docs/start/
+ 
+Minikube tutorial: 
+ - https://kubernetes.io/docs/tutorials/hello-minikube/
 
 
 <b>What is OpenShift?</b> https://www.youtube.com/watch?v=KTN_QBuDplo
