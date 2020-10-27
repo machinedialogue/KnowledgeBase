@@ -1,3 +1,6 @@
+On Windows:
+- https://hub.docker.com/editions/community/docker-ce-desktop-windows
+
 https://scotch.io/tutorials/create-a-mean-app-with-angular-2-and-docker-compose
 
 https://github.com/Microsoft/dotnet-framework-docker
