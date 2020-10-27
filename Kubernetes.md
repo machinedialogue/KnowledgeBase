@@ -25,5 +25,13 @@ https://github.com/dockersamples/docker-fifth-birthday/blob/master/kubernetes-de
 
 Q:
 
+Connect a Front End to a Back End Using a Service
+ - https://kubernetes.io/docs/tasks/access-application-cluster/connecting-frontend-backend/
+
+Set up Ingress on Minikube with the NGINX Ingress Controller
+ - https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/
+
+
+
 An Introduction to Helm 
  - https://www.youtube.com/watch?v=Zzwq9FmZdsU&t=2s
