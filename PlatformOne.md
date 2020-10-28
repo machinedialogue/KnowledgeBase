@@ -3,6 +3,7 @@ DoD Enterprise DevSecOps Reference Design
 
 A catalog of Iron Bank containers
  - https://ironbank.dsop.io/ironbank/repomap
+ - can do docker pull from https://registry1.dsop.io
  
  
  https://software.af.mil/training/
