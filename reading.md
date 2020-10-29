@@ -1,3 +1,20 @@
+<b>Q:</b>
+
+
+- Working with containers
+  - https://code.visualstudio.com/docs/containers/overview
+
+- Choosing Your development environment
+  - https://code.visualstudio.com/docs/containers/choosing-dev-environment
+
+- Node.js in a container
+  - https://code.visualstudio.com/docs/containers/quickstart-node
+
+- Use Bridge to Kubernetes with Visual Studio Code
+  - https://code.visualstudio.com/docs/containers/bridge-to-kubernetes
+
+
+
 P1 Workshop
 
 https://www.openshift.com/learn/developer
@@ -53,6 +70,8 @@ https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps/get-started
 <b>nuget Package creation workflow</b>
 
 https://docs.microsoft.com/en-us/nuget/create-packages/overview-and-workflow
+
+
 
 Past Items:
 
