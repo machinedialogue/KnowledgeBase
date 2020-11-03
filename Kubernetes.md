@@ -1,5 +1,6 @@
-Argo CD - Introduction to Argo CD : Kubernetes DevOps CI/CD
-- https://www.youtube.com/watch?v=2WSJF7d8dUg
+Argo CD - https://argoproj.github.io/argo-cd/
+- Introduction to Argo CD : Kubernetes DevOps CI/CD
+  - https://www.youtube.com/watch?v=2WSJF7d8dUg
 
 MEAN
  - Hands-on guide: developing and deploying Node.js apps in Kubernetes - https://learnk8s.io/nodejs-kubernetes-guide
