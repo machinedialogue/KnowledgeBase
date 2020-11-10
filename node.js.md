@@ -1,3 +1,6 @@
+TypeORM is an ORM that can run in NodeJS
+ - https://github.com/typeorm/typeorm
+
 
 Node.js REST API setup with Docker Compose, Express and Postgres
  - https://codewithhugo.com/node-postgres-express-docker-compose/
