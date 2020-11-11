@@ -1,3 +1,6 @@
+Kustomize: Deploy Your App with Template Free YAML 
+- https://www.youtube.com/watch?v=ahMIBxufNR0
+
 Argo CD - https://argoproj.github.io/argo-cd/
 - Introduction to Argo CD : Kubernetes DevOps CI/CD
   - https://www.youtube.com/watch?v=2WSJF7d8dUg
