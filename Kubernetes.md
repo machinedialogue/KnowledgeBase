@@ -1,3 +1,6 @@
+commands:
+ - kubectl get ns
+
 Kustomize: Deploy Your App with Template Free YAML 
 - https://www.youtube.com/watch?v=ahMIBxufNR0
   - https://github.com/ryancox/gitea/tree/master/contrib/k8s
