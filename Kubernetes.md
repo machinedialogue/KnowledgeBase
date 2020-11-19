@@ -1,5 +1,6 @@
 commands:
  - kubectl get ns
+ - kubectl port-forward svc/hello-service -n hello-namespace 80:80
 
 Kustomize: Deploy Your App with Template Free YAML 
 - https://www.youtube.com/watch?v=ahMIBxufNR0
