@@ -41,6 +41,8 @@ https://github.com/dockersamples/docker-fifth-birthday/blob/master/kubernetes-de
 
 Q:
 
+https://istio.io/latest/docs/setup/getting-started/
+
 Connect a Front End to a Back End Using a Service
  - https://kubernetes.io/docs/tasks/access-application-cluster/connecting-frontend-backend/
 
