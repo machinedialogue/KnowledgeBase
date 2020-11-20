@@ -10,8 +10,11 @@ Argo CD - https://argoproj.github.io/argo-cd/
 - Introduction to Argo CD : Kubernetes DevOps CI/CD
   - https://www.youtube.com/watch?v=2WSJF7d8dUg
 
-Istio 101: Open Source Service Mesh for Microservices!
- - https://www.youtube.com/watch?v=8OjOGJKM98o&list=PLSIv_F9TtLlxtC4rDIMQ8QiG5UBCjz7VH&index=7&t=754s
+
+Istio
+ - https://www.docker.com/blog/getting-started-with-istio-using-docker-desktop/
+ - Istio 101: Open Source Service Mesh for Microservices!
+   - https://www.youtube.com/watch?v=8OjOGJKM98o&list=PLSIv_F9TtLlxtC4rDIMQ8QiG5UBCjz7VH&index=7&t=754s
 
 
 MEAN
