@@ -44,6 +44,8 @@ https://github.com/dockersamples/docker-fifth-birthday/blob/master/kubernetes-de
 
 Q:
 
+https://www.thoughtworks.com/insights/blog/building-service-mesh-envoy-0
+
 https://istio.io/latest/docs/setup/getting-started/
 
 Connect a Front End to a Back End Using a Service
