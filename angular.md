@@ -1,4 +1,7 @@
 
+with nginx
+ - https://www.linkedin.com/pulse/create-mean-app-angular-7-nginx-docker-compose-radhouen-assakra/
+
 <b>host in asp.net core self host </b>
 
 * https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-3.1&tabs=windows
