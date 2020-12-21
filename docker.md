@@ -1,4 +1,5 @@
 docker-compose
+ - https://codeburst.io/replicate-kubernetes-ingress-locally-with-docker-compose-2872e650af6b
  - https://scotch.io/tutorials/create-a-mean-app-with-angular-2-and-docker-compose
 
 On Windows:
