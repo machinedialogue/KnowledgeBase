@@ -1,5 +1,7 @@
 https://repo1.dso.mil/platform-one/hello-world
 https://repo1.dso.mil/platform-one/big-bang/pipeline-templates/pipeline-templates/-/tree/master/local-dev
+https://repo1.dso.mil/platform-one/onboarding/big-bang/big-bang-workshop
+
 
 
 DoD Enterprise DevSecOps Reference Design
