@@ -15,6 +15,7 @@ Argo CD - https://argoproj.github.io/argo-cd/
 
 
 Istio
+ - https://istio.io/latest/docs/setup/getting-started/
  - https://istio.io/latest/docs/examples/microservices-istio/
  - https://www.docker.com/blog/getting-started-with-istio-using-docker-desktop/
  - Istio 101: Open Source Service Mesh for Microservices!
