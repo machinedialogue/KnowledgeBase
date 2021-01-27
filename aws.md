@@ -1,9 +1,7 @@
+
 <b>TODO:</b>
 
-Runnign .NET app on AWS.
-
 create a virtual network so that 2 machines can talk to eachother
-
 Create AMI 
 Create Image
 
@@ -13,6 +11,10 @@ https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate
 
 
 Ref:
+
+Connect to Linux instance using SSH
+ - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
+
 <b>Enabling Federation to AWS Using Windows Active Directory, ADFS, and SAML 2.0</b>
 
 
