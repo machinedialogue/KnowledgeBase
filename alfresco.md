@@ -6,6 +6,7 @@ Alfresco Process Services
  - Activities
    - https://docs.alfresco.com/process-services1.8/topics/activities.html
    - https://docs.alfresco.com/process-services1.8/topics/bpmn_editor.html
+ - https://docs.alfresco.com/process-services1.8/topics/task_app.html
 
 https://www.alfresco.com/blogs/power-platform/documentum-filenet-opentext-should-i-stay-or-should-i-go
 
