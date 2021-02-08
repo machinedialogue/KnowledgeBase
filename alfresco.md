@@ -7,6 +7,22 @@ Alfresco Process Services
    - https://docs.alfresco.com/process-services1.8/topics/activities.html
    - https://docs.alfresco.com/process-services1.8/topics/bpmn_editor.html
  - https://docs.alfresco.com/process-services1.8/topics/task_app.html
+ 
+ 
+ https://university.alfresco.com/
+ 
+ Tech Talk Live #107: Introduction to Activiti
+  - https://www.youtube.com/watch?v=7L9mfv5zEUk&list=PLyJdWuUHM3ihfB2LNHTHn7iv61FLrLVCg&index=12
+  
+ OpenText Migration to Alfresco – Best Practices with OpenMigrate
+  - https://www.tsgrp.com/2016/02/18/opentext-migration-to-alfresco-best-practices-with-openmigrate/
+  - https://www.tsgrp.com/products/openmigrate/
+  
+Document Migrations – What do you need to know?
+ - https://www.tsgrp.com/2013/02/18/document-migrations-what-do-you-need-to-know/
+  
+ 
+ 
 
 https://www.alfresco.com/blogs/power-platform/documentum-filenet-opentext-should-i-stay-or-should-i-go
 
