@@ -1,3 +1,6 @@
+Smart Folders tutorial - claims management
+ - https://docs.alfresco.com/6.2/tasks/sf-tutorial.html
+
 Alfresco Process Services 
  - Workspace and BPMN Editor overview
    - https://www.youtube.com/watch?v=qf05FoRPVEM&list=PLAPiOjkBmVLamnasuo9tdMLizG2kpvRxy&index=2
