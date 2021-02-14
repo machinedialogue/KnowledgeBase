@@ -32,6 +32,9 @@ https://www.alfresco.com/blogs/power-platform/documentum-filenet-opentext-should
 
 https://www.alfresco.com/ecm-software/alfresco-community-editions
 
+
+https://www.alfresco.com/solutions/claims-management
+
 Q:
 Tech Talk Live #100: Application Development Framework
  - https://www.youtube.com/watch?v=-OFI3izSDdk&list=PLyJdWuUHM3ihfB2LNHTHn7iv61FLrLVCg&index=19
