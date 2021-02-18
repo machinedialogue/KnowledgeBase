@@ -48,6 +48,9 @@ https://github.com/Microsoft/dotnet-framework-docker/issues/23
 
 <b>cmds: </b>
 
+Get Environment Variable from Docker Container
+ - docker exec container env
+
 Image from tar file : 
 docker load --input node.tar
 
