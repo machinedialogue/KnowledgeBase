@@ -1,3 +1,9 @@
+Combine, Split and Update PDF documents with only a Web Browser
+ - https://www.tsgrp.com/2019/05/02/combine-split-and-update-pdf-documents-with-only-a-web-browser/
+
+Claim Demo Series
+ - https://www.tsgrp.com/solutions/policy-and-claim-management/opencontent-policy-and-claim-demo-series/
+
 Smart Folders tutorial - claims management
  - https://docs.alfresco.com/6.2/tasks/sf-tutorial.html
 
