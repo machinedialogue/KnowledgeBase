@@ -10,6 +10,7 @@ Smart Folders tutorial - claims management
 Alfresco Process Services 
 
 https://github.com/Alfresco/alfresco-process-services-examples
+https://github.com/Alfresco/example-process-application
 
  - Workspace and BPMN Editor overview
    - https://www.youtube.com/watch?v=qf05FoRPVEM&list=PLAPiOjkBmVLamnasuo9tdMLizG2kpvRxy&index=2
