@@ -11,6 +11,8 @@ https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate
 
 
 Ref:
+perform native backup of an RDS SQL Server DB instance
+- https://www.youtube.com/watch?v=54IgI_xwwko
 
 Connect to Linux instance using SSH
  - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
