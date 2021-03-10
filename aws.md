@@ -11,6 +11,9 @@ https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate
 
 
 Ref:
+Importing and exporting SQL Server databases
+- https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/SQLServer.Procedural.Importing.html
+
 perform native backup of an RDS SQL Server DB instance
 - https://www.youtube.com/watch?v=54IgI_xwwko
 
