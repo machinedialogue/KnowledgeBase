@@ -1,5 +1,6 @@
 <b>Q:</b>
 
+- Kubernetes secrets
 
 - Working with containers
   - https://code.visualstudio.com/docs/containers/overview
