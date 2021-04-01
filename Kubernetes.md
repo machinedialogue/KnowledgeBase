@@ -49,6 +49,8 @@ https://github.com/dockersamples/docker-fifth-birthday/blob/master/kubernetes-de
 
 Q:
 
+https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/
+
 https://learnk8s.io/kubernetes-ingress-api-gateway
 
 https://www.thoughtworks.com/insights/blog/building-service-mesh-envoy-0
