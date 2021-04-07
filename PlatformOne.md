@@ -1,3 +1,7 @@
+
+Sample Container Hardening Pipeline
+ - https://repo1.dso.mil/dsop/microsoft/microsoft/microsoft-sql-server-2019-rhel8/-/pipelines/211866
+
 https://repo1.dso.mil/platform-one/hello-world
 https://repo1.dso.mil/platform-one/big-bang/pipeline-templates/pipeline-templates/-/tree/master/local-dev
 https://repo1.dso.mil/platform-one/onboarding/big-bang/big-bang-workshop
