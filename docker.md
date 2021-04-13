@@ -2,6 +2,9 @@ docker-compose
  - https://codeburst.io/replicate-kubernetes-ingress-locally-with-docker-compose-2872e650af6b
  - https://scotch.io/tutorials/create-a-mean-app-with-angular-2-and-docker-compose
 
+Awesome Compose 
+ - https://github.com/docker/awesome-compose
+
 On Windows:
 - https://hub.docker.com/editions/community/docker-ce-desktop-windows
 - https://hub.docker.com/search?q=&type=edition&offering=community&sort=updated_at&order=desc
