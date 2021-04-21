@@ -1,3 +1,6 @@
+Keycloak
+ - https://hub.alfresco.com/t5/alfresco-platform-services-blog/getting-started-with-alfresco-identity-service-ea-keycloak/ba-p/288261
+
 Combine, Split and Update PDF documents with only a Web Browser
  - https://www.tsgrp.com/2019/05/02/combine-split-and-update-pdf-documents-with-only-a-web-browser/
 
