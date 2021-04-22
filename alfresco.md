@@ -1,3 +1,7 @@
+Container-Hardening
+ - Dockerfiles 
+   - https://docs.alfresco.com/content-services/latest/install/containers/docker-compose/#reference
+
 Keycloak
  - https://hub.alfresco.com/t5/alfresco-platform-services-blog/getting-started-with-alfresco-identity-service-ea-keycloak/ba-p/288261
 
