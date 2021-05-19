@@ -1,6 +1,9 @@
 
-Container Hardening Guide
+Container Hardening
  - https://dl.dod.cyber.mil/wp-content/uploads/devsecops/pdf/Final_DevSecOps_Enterprise_Container_Hardening_Guide_1.1.pdf
+ - https://repo1.dso.mil/dsop/dccscr/-/tree/master/pipeline
+ - https://repo1.dso.mil/ironbank-tools/ironbank-pipeline#pipeline-artifacts
+
 
 Sample Container Hardening Pipeline
  - https://repo1.dso.mil/dsop/microsoft/microsoft/microsoft-sql-server-2019-rhel8/-/pipelines/211866
