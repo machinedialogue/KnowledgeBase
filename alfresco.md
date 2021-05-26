@@ -1,3 +1,6 @@
+Ref:
+ - https://hub.alfresco.com/t5/alfresco-process-services/how-to-edit-alfresco-content-through-activiti-bpm/td-p/205320/page/2
+
 Container-Hardening
  - Dockerfiles 
    - https://docs.alfresco.com/content-services/latest/install/containers/docker-compose/#reference
