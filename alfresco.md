@@ -1,5 +1,6 @@
 Ref:
- - https://www.slideshare.net/mindthegab/the-alfresco-ecm-1-billion-document-benchmark-on-aws-and-aurora-benchmark-details-and-scalability-recommendations
+ - https://www.slideshare.net/LuisCabaceira/sizing-your-alfrescoplatform?next_slideshow=1
+ -  - https://www.slideshare.net/mindthegab/the-alfresco-ecm-1-billion-document-benchmark-on-aws-and-aurora-benchmark-details-and-scalability-recommendations
  - Alfresco Tech Talk Live #92 - Content Model Manager 
    - https://www.youtube.com/watch?v=aAWRcUZEbNg
  - https://www.alfresco.com/abn/tutorials/contract-management/setting-up-permissions/ 
