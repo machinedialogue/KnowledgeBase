@@ -1,4 +1,6 @@
 Ref:
+ - Alfresco Tech Talk Live #92 - Content Model Manager 
+   - https://www.youtube.com/watch?v=aAWRcUZEbNg
  - https://www.alfresco.com/abn/tutorials/contract-management/setting-up-permissions/ 
  - https://www.alfresco.com/abn/tutorials/contract-management/
  - https://docs.alfresco.com/content-services/6.2/tutorial/model/
