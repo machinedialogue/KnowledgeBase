@@ -26,6 +26,8 @@ Smart Folders tutorial - claims management
 
 Alfresco Process Services 
 
+https://hub.alfresco.com/t5/alfresco-process-services/activiti-enterprise-developer-series-storing-and-fetching/ba-p/287026
+
 https://github.com/Alfresco/alfresco-process-services-examples
 https://github.com/Alfresco/example-process-application
 
