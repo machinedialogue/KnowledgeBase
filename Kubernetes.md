@@ -52,6 +52,9 @@ https://github.com/dockersamples/docker-fifth-birthday/blob/master/kubernetes-de
 
 Q:
 
+Kubernetes Volumes explained | Persistent Volume, Persistent Volume Claim & Storage Class
+ - https://www.youtube.com/watch?v=0swOh5C3OVM
+
 https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/
 
 https://learnk8s.io/kubernetes-ingress-api-gateway
