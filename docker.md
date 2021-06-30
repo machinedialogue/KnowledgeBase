@@ -63,6 +63,8 @@ sudo docker run -it --rm -v `pwd`:`pwd` -w `pwd` node bash
 
 https://stackoverflow.com/questions/24309526/how-to-change-the-docker-image-installation-directory
 
+https://stackoverflow.com/questions/19234831/where-are-docker-images-stored-on-the-host-machine
+
 <b>Troubleshooting:</b>
 
 Docker Networking Disabled: WARNING: IPv4 forwarding is disabled. Networking will not work
