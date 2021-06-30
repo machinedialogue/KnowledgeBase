@@ -59,6 +59,10 @@ docker load --input node.tar
 
 sudo docker run -it --rm -v `pwd`:`pwd` -w `pwd` node bash
 
+<b>Ref: </b>
+
+https://stackoverflow.com/questions/24309526/how-to-change-the-docker-image-installation-directory
+
 <b>Troubleshooting:</b>
 
 Docker Networking Disabled: WARNING: IPv4 forwarding is disabled. Networking will not work
