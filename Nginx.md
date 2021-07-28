@@ -12,3 +12,8 @@ https://stackoverflow.com/questions/59252170/nginx-to-proxy-sql-database-url
 https://serverfault.com/questions/857766/how-to-forward-non-http-requests-on-port-80-to-another-port
 
 
+Ref:
+
+http://nginx.org/en/docs/http/configuring_https_servers.html
+
+
