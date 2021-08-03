@@ -4,6 +4,7 @@ TypeScript Express tutorial #7. Relational databases with Postgres and TypeORM
 
 psql - 
 
-psql -U {user name} -W {db name}
+  - psql -U {user name} -W {db name}
 
-SELECT version();
+  - SELECT version();
+  - \l      view all of the defined databases on the server
