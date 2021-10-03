@@ -51,6 +51,9 @@ https://github.com/Microsoft/dotnet-framework-docker/issues/23
 
 <b>cmds: </b>
 
+Display the running processes of a container
+ - docker container top CONTAINER [ps OPTIONS]
+
 Get Environment Variable from Docker Container
  - docker exec container env
 
