@@ -1,4 +1,9 @@
 
+<b>Big Bang</b>
+  - https://p1.dso.mil/#/products/big-bang
+  - P1 Tool Chain 
+    - https://p1.dso.mil/img/P1%20-%20Tool%20Chain-2.e5046f01.jpg
+
 Container Hardening
  - https://dl.dod.cyber.mil/wp-content/uploads/devsecops/pdf/Final_DevSecOps_Enterprise_Container_Hardening_Guide_1.1.pdf
  - https://repo1.dso.mil/dsop/dccscr/-/tree/master/pipeline
