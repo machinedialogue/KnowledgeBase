@@ -8,6 +8,9 @@ Node.js REST API setup with Docker Compose, Express and Postgres
 
 https://docs.microsoft.com/en-us/sql/connect/node-js/step-3-proof-of-concept-connecting-to-sql-using-node-js?view=sql-server-ver15
 
+Ref:
+
+https://stackoverflow.com/questions/9577611/http-get-request-in-node-js-express
 
 Q:
  - Passport.js
