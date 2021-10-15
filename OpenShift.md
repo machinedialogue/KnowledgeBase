@@ -11,6 +11,8 @@ https://developers.redhat.com/blog/2018/10/04/modern-web-apps-openshift-part-1/
 
 
 Q: 
+ - Egress IP testing
+   - https://examples.openshift.pub/networking/egress-ip/
 
  - ConfigMaps and Secrets w/ OpenShift
     - https://stackoverflow.com/questions/13052548/node-js-how-to-attach-to-a-running-process-and-to-debug-the-server-with-a-conso
