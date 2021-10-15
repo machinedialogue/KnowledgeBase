@@ -14,6 +14,12 @@ Q:
  - Egress IP testing
    - https://examples.openshift.pub/networking/egress-ip/
 
+
+ - Deep Dive of Egress IP in Openshift 4 with Openshift SDN CNI
+   - https://rcarrata.com/openshift/egress_ip/
+
+
+
  - ConfigMaps and Secrets w/ OpenShift
     - https://stackoverflow.com/questions/13052548/node-js-how-to-attach-to-a-running-process-and-to-debug-the-server-with-a-conso
 
