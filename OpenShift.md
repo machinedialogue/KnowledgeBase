@@ -11,6 +11,10 @@ https://developers.redhat.com/blog/2018/10/04/modern-web-apps-openshift-part-1/
 
 
 Q: 
+
+https://console.redhat.com/openshift/create/local
+
+
  - Egress IP testing
    - https://examples.openshift.pub/networking/egress-ip/
 
