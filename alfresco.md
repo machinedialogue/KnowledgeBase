@@ -1,3 +1,7 @@
+On k8s:
+ - Alfresco Content Services Helm Deployment with Docker For Desktop
+   - https://github.com/Alfresco/acs-deployment/blob/master/docs/helm/docker-desktop-deployment.md
+
 Ref:
  - https://www.slideshare.net/LuisCabaceira/sizing-your-alfrescoplatform?next_slideshow=1
  -  - https://www.slideshare.net/mindthegab/the-alfresco-ecm-1-billion-document-benchmark-on-aws-and-aurora-benchmark-details-and-scalability-recommendations
