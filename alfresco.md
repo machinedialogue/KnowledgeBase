@@ -1,4 +1,6 @@
 On k8s:
+ - https://docs.alfresco.com/content-services/6.0/install/containers/helm/
+ - (helm chart) https://github.com/Alfresco/acs-deployment/tree/master/helm/alfresco-content-services
  - Alfresco Content Services Helm Deployment with Docker For Desktop
    - https://github.com/Alfresco/acs-deployment/blob/master/docs/helm/docker-desktop-deployment.md
 
