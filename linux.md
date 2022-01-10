@@ -1,5 +1,8 @@
 https://webhostinggeeks.com/howto/how-to-disable-selinux-on-rhel-7centos-7/
 
+find files: 
+
+grep -rnw '/path/to/somewhere/' -e 'pattern'
 
 Linux Disk Space 
  - df –h
