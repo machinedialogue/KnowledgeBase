@@ -3,6 +3,7 @@ On k8s:
  - (helm chart) https://github.com/Alfresco/acs-deployment/tree/master/helm/alfresco-content-services
  - Alfresco Content Services Helm Deployment with Docker For Desktop
    - https://github.com/Alfresco/acs-deployment/blob/master/docs/helm/docker-desktop-deployment.md
+ - https://github.com/AlfrescoArchive/acs-community-deployment/blob/master/docs/helm-deployment-minikube.md
 
 Ref:
  - https://www.slideshare.net/LuisCabaceira/sizing-your-alfrescoplatform?next_slideshow=1
