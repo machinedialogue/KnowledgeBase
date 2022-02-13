@@ -1,3 +1,4 @@
+Get-Content C:\fso\a.txt | Measure-Object –Line
 
 Get-Content unsorted.txt | sort | get-unique > sorted.txt
 
