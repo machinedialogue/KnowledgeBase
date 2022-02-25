@@ -1,5 +1,7 @@
 <b>Q:</b>
 
+- https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image
+- 
 - Kubernetes secrets
 
 - Working with containers
