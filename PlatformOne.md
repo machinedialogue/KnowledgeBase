@@ -37,6 +37,9 @@ A catalog of Iron Bank containers
   - https://p1.dsop.io/#/products/abms-adce
  
  https://p1.dsop.io/#/products/big-bang
+ 
+ PLATFORM ONE RESELLER
+  - https://www.seed-innovations.com/
     
  Cmds:
  
