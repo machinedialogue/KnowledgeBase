@@ -33,6 +33,9 @@ Smart Folders tutorial - claims management
 
 Alfresco Process Services 
 
+ - Creating Custom Advanced Workflows in Alfresco
+   - https://ecmarchitect.com/alfresco-developer-series-tutorials/workflow/tutorial/tutorial.html
+
  - https://hub.alfresco.com/t5/alfresco-process-services/activiti-enterprise-developer-series-storing-and-fetching/ba-p/287026
 
  - https://github.com/Alfresco/alfresco-process-services-examples
