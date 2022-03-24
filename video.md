@@ -1,4 +1,8 @@
 
+3/23/22:
+Horizontal Pod Autoscaler Reloaded - Scale on Custom Metrics - Maciej Pytel & Solly Ross
+ - https://www.youtube.com/watch?v=1xm_ccAYO90
+
 6/16/21: 
 
 Kubernetes Volumes explained | Persistent Volume, Persistent Volume Claim & Storage Class
