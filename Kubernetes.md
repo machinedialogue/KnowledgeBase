@@ -52,6 +52,10 @@ https://github.com/dockersamples/docker-fifth-birthday/blob/master/kubernetes-de
 
 Q:
 
+https://prometheus.io/docs/prometheus/latest/getting_started/
+
+
+
 Kubernetes Volumes explained | Persistent Volume, Persistent Volume Claim & Storage Class
  - https://www.youtube.com/watch?v=0swOh5C3OVM
 
