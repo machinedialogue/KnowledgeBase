@@ -1,3 +1,7 @@
+
+SSMS XEvent Profiler
+ - https://docs.microsoft.com/en-us/sql/relational-databases/extended-events/use-the-ssms-xe-profiler?view=sql-server-ver15
+
 <b> SQL Server Row Count for all Tables in a Database</b>
 
 
