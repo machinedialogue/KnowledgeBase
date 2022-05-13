@@ -12,6 +12,10 @@ https://developers.redhat.com/blog/2018/10/04/modern-web-apps-openshift-part-1/
 
 Q: 
 
+ - Monitornign
+
+ - helm
+
  - Red Hat CodeReady Containers - Create a minimal cluster on your desktop/laptop for local development and testing.
    - https://console.redhat.com/openshift/create/local
 
