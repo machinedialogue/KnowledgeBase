@@ -12,6 +12,9 @@ https://developers.redhat.com/blog/2018/10/04/modern-web-apps-openshift-part-1/
 
 Q: 
 
+ - Getting GitOps: A practical platform with OpenShift, Argo CD, and Tekton
+   - https://developers.redhat.com/e-books/getting-gitops-practical-platform-openshift-argo-cd-and-tekton
+
  - Monitornign
 
  - helm
