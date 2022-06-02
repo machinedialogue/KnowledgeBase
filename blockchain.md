@@ -12,5 +12,7 @@ https://www.blockchain.com/explorer
 
 Q:
 
+https://bitcoin.org/bitcoin.pdf
+
 https://mlsdev.com/blog/how-to-create-your-own-cryptocurrency
 
