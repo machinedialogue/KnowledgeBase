@@ -1,5 +1,7 @@
 <b>Q:</b>
 
+- Terraform
+
 - https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image
 - 
 - Kubernetes secrets
