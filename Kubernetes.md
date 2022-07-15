@@ -23,6 +23,7 @@ Istio
  - https://www.docker.com/blog/getting-started-with-istio-using-docker-desktop/
  - Istio 101: Open Source Service Mesh for Microservices!
    - https://www.youtube.com/watch?v=8OjOGJKM98o&list=PLSIv_F9TtLlxtC4rDIMQ8QiG5UBCjz7VH&index=7&t=754s
+ - https://github.com/istio/istio/releases (download zip file for windows)
 
 
 MEAN
