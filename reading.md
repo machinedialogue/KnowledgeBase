@@ -1,5 +1,7 @@
 <b>Q:</b>
 
+https://developers.redhat.com/articles/2021/12/16/elegant-way-performance-test-microservices-kubernetes
+
 - Terraform
 
 - https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image
