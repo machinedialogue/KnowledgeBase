@@ -18,6 +18,7 @@ Argo CD - https://argoproj.github.io/argo-cd/
 
 
 Istio
+ - https://istio.io/latest/docs/ops/deployment/architecture/
  - https://istio.io/latest/docs/setup/getting-started/
  - https://istio.io/latest/docs/examples/microservices-istio/
  - https://www.docker.com/blog/getting-started-with-istio-using-docker-desktop/
