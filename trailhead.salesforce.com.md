@@ -5,6 +5,24 @@ Q:
 
   - Apex unit testing 
 
+Commands:
+  - sfdx update
+  - sfdx auth:web:login -d -a DevHub
+  - git clone https://github.com/trailheadapps/dreamhouse-lwc.git
+  - sfdx force:org:create -s -f config/project-scratch-def.json -a dreamhouse-org
+  - sfdx force:user:permset:assign -n Dreamhouse
+  - sfdx force:data:tree:import --plan data/sample-data-plan.json
+  - sfdx force:org:list
+  - sfdx force:org:open
+
+  - sfdx force:project:create -n geolocation
+  - sfdx force:org:create -s -f config/project-scratch-def.json -a GeoAppScratch
+  - sfdx force:data:record:create -s Account -v "Name='Marriott Marquis' BillingStreet='780 Mission St' BillingCity='San Francisco' BillingState='CA' BillingPostalCode='94103' Phone='(415) 896-1600' Website='www.marriott.com'"
+  - sfdx force:data:tree:export -q "SELECT Name, BillingStreet, BillingCity, BillingState, BillingPostalCode, Phone, Website FROM Account WHERE BillingStreet != NULL AND BillingCity != NULL and BillingState != NULL" -d ./data
+
+
+  - geolocation>sfdx force:apex:class:create -n AccountSearchController -d force-app/main/default/classes
+
 
 
 Ref:
@@ -39,8 +57,3 @@ net start winnat
 
 After running those commands, try your "SFDX: Authorize an Org" again.
 
-
-
-Commands:
-  - sfdx force:org:list
-  - sfdx force:org:open
