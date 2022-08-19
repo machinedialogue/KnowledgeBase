@@ -38,3 +38,9 @@ netsh int ipv4 add excludedportrange protocol=tcp startport=1717 numberofports=1
 net start winnat
 
 After running those commands, try your "SFDX: Authorize an Org" again.
+
+
+
+Commands:
+  - sfdx force:org:list
+  - sfdx force:org:open
