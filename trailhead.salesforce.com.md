@@ -26,6 +26,8 @@ Commands:
 
 
 Ref:
+  - <b>How to Choose Lightning Web Components or Aura </b>
+    - https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.get_started_lwc_or_aura
 
   - VS Code - localhost 1717 error while Authorizing an Org
     - https://developer.salesforce.com/forums/?id=9062I000000IDtcQAG 
