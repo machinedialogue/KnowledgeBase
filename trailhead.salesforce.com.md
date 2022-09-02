@@ -1,4 +1,5 @@
-https://playful-badger-pujdmc-dev-ed.lightning.force.com/lightning/n/Property_Explorer
+Hands-On Orgs
+  - https://trailhead.salesforce.com/users/profiles/orgs
 
 
 Q:
