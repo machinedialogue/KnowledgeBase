@@ -1,7 +1,6 @@
 Hands-On Orgs
   - https://trailhead.salesforce.com/users/profiles/orgs
 
-
 Q:
 
   - Apex unit testing 
@@ -24,7 +23,11 @@ Commands:
 
   - geolocation>sfdx force:apex:class:create -n AccountSearchController -d force-app/main/default/classes
 
-
+Apex:
+  How can I turn my returned List<SObject> into a Set<Id>? Is the best option just a for loop?
+    List<SObject> results = Database.query(someSOQL);
+    Set<Id> resultIds = (new Map<Id,SObject>(results)).keySet();
+    [https://salesforce.stackexchange.com/questions/8910/how-can-i-efficiently-generate-a-setid-from-a-listsobject-structure]
 
 Ref:
   - <b>How to Choose Lightning Web Components or Aura </b>
