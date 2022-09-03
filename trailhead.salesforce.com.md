@@ -23,12 +23,15 @@ Commands:
 
   - geolocation>sfdx force:apex:class:create -n AccountSearchController -d force-app/main/default/classes
 
-Apex:
+<b>Apex</b>
   How can I turn my returned List<SObject> into a Set<Id>? Is the best option just a for loop?
     List<SObject> results = Database.query(someSOQL);
     Set<Id> resultIds = (new Map<Id,SObject>(results)).keySet();
     [https://salesforce.stackexchange.com/questions/8910/how-can-i-efficiently-generate-a-setid-from-a-listsobject-structure]
 
+ <b>SOQL</b>
+   - https://salesforce.stackexchange.com/questions/231708/soql-to-join-3-objects
+  
 Ref:
   - <b>How to Choose Lightning Web Components or Aura </b>
     - https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.get_started_lwc_or_aura
