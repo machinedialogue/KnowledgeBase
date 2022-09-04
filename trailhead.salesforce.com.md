@@ -2,7 +2,7 @@ Hands-On Orgs
   - https://trailhead.salesforce.com/users/profiles/orgs
 
 Q:
-
+  - https://developer.salesforce.com/tools/vscode
   - Apex unit testing 
 
 Commands:
@@ -33,6 +33,8 @@ Commands:
    - https://salesforce.stackexchange.com/questions/231708/soql-to-join-3-objects
   
 Ref:
+  
+  
   - <b>How to Choose Lightning Web Components or Aura </b>
     - https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.get_started_lwc_or_aura
 
