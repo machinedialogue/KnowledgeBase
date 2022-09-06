@@ -32,8 +32,15 @@ Commands:
  <b>SOQL</b>
    - https://salesforce.stackexchange.com/questions/231708/soql-to-join-3-objects
   
-Ref:
+<b>Ref:</b>
+  - <b>Lightning Web Components Dev Guide</b>
+     - https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.get_started_introduction
   
+  - <b> # Dev Guide </b>
+      - https://lwc.dev/guide/introduction
+  
+  - <b> Lightning Web Components Recipes </b>
+    -  https://recipes.lwc.dev/#hello
   
   - <b>How to Choose Lightning Web Components or Aura </b>
     - https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.get_started_lwc_or_aura
