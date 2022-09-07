@@ -32,6 +32,15 @@ Commands:
  <b>SOQL</b>
    - https://salesforce.stackexchange.com/questions/231708/soql-to-join-3-objects
   
+  <b>Apex:</b>
+    - get picklist
+     Schema.DescribeFieldResult fieldResult = Case.Type.getDescribe();
+      List<Schema.PicklistEntry> ple = fieldResult.getPicklistValues();
+    for(Schema.PicklistEntry s:ple){
+      System.debug('{label: ' + s.getLabel() + ', value: ' + s.getValue() + '}');
+    }
+  
+  
 <b>Ref:</b>
   - <b>Lightning Web Components Dev Guide</b>
      - https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.get_started_introduction
