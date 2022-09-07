@@ -34,12 +34,13 @@ Commands:
   
   <b>Apex:</b>
     - get picklist
-     Schema.DescribeFieldResult fieldResult = Case.Type.getDescribe();
+      ```
+      Schema.DescribeFieldResult fieldResult = Case.Status.getDescribe();
       List<Schema.PicklistEntry> ple = fieldResult.getPicklistValues();
-    for(Schema.PicklistEntry s:ple){
-      System.debug('{label: ' + s.getLabel() + ', value: ' + s.getValue() + '}');
-    }
-  
+      for(Schema.PicklistEntry s:ple){
+        System.debug('{label: "' + s.getLabel() + '", value: "' + s.getValue() + '"},');
+      }
+      ```
   
 <b>Ref:</b>
   - <b>Lightning Web Components Dev Guide</b>
