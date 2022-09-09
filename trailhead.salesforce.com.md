@@ -7,6 +7,7 @@ Q:
   - Apex unit testing 
 
 Commands:
+  - sfdx force:config:set defaultusername={ALIAS}
   - sfdx update
   - sfdx auth:web:login -d -a DevHub
   - git clone https://github.com/trailheadapps/dreamhouse-lwc.git
