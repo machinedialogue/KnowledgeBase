@@ -38,6 +38,9 @@ Commands:
     [https://salesforce.stackexchange.com/questions/8910/how-can-i-efficiently-generate-a-setid-from-a-listsobject-structure]
 
  <b>SOQL</b>
+  
+   -  https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_relationships.htm
+  
    - https://salesforce.stackexchange.com/questions/231708/soql-to-join-3-objects
   
   <b>Apex:</b>
