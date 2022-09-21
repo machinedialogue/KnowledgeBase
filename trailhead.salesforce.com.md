@@ -62,6 +62,13 @@ Commands:
   
   - <b> Lightning Web Components Recipes </b>
     -  https://recipes.lwc.dev/#hello
+    - https://github.com/trailheadapps/lwc-recipes
+  
+  - Get picklist values based on Record Types in LWC
+    - https://blog.salesforcecasts.com/get-picklist-values-based-on-record-types-in-lwc/
+    - get recordtypeid in LWC using
+     - https://medium.com/@varma6228/getobjectinfo-in-lwc-1ffe490ea396
+    - https://craftware.com/salesforce-lightning-web-components-chain-wire-methods/
   
   - <b>How to Choose Lightning Web Components or Aura </b>
     - https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.get_started_lwc_or_aura
