@@ -2,7 +2,7 @@
 
 
   - https://github.com/typicode/husky/issues/1014
-
+  - https://stackoverflow.com/questions/63943401/husky-pre-commit-hook-failed-add-no-verify-to-bypass
   - git commit -m "message" --no-verify
 
 
