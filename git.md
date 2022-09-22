@@ -1,5 +1,11 @@
 <h3>Gig Commands:</h3>
 
+
+  - https://github.com/typicode/husky/issues/1014
+
+  - git commit -m "message" --no-verify
+
+
 git log --graph --oneline --all --decorate
 
 git clean -xfd
