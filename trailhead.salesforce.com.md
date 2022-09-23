@@ -11,6 +11,8 @@ Q:
   - LWC data binding (2 way)
   - https://developer.salesforce.com/tools/vscode
   - Apex unit testing 
+  - Custom Related List by Extentia
+    - https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000MBg07EAD
 
 Commands:
   - sfdx force:config:set defaultusername={ALIAS}
