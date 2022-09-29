@@ -1,3 +1,5 @@
+https://salesforce.stackexchange.com/questions/366564/deployment-error-the-appmenu-called-appswitcher-is-standard-and-cannot-be-de
+
 Hands-On Orgs
   - https://trailhead.salesforce.com/users/profiles/orgs
 
