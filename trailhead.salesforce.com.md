@@ -4,6 +4,8 @@ Hands-On Orgs
   - https://trailhead.salesforce.com/users/profiles/orgs
 
 Q:
+  - 
+  - https://jestjs.io/docs/mock-functions
   - SF community in Dhaka
   - post: LWC Arch
   - post: relationship
