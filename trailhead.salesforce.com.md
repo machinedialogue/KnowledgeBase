@@ -60,6 +60,10 @@ Commands:
       ```
   
 <b>Ref:</b>
+  
+    combine date and time field with formula
+    DATETIMEVALUE( TEXT(Start_Date__c)&' '& LEFT(TEXT( Start_Time__c ), 8) )
+  
   - <b>Lightning Web Components Dev Guide</b>
      - https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.get_started_introduction
   
