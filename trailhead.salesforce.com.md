@@ -1,10 +1,10 @@
-https://salesforce.stackexchange.com/questions/366564/deployment-error-the-appmenu-called-appswitcher-is-standard-and-cannot-be-de
+
 
 Hands-On Orgs
   - https://trailhead.salesforce.com/users/profiles/orgs
 
 Q:
-  - 
+  - https://focusonforce.com/catalog/ 
   - https://jestjs.io/docs/mock-functions
   - SF community in Dhaka
   - post: LWC Arch
