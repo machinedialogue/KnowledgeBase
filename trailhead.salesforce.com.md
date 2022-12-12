@@ -19,6 +19,9 @@ Q:
     - https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000MBg07EAD
 
 Commands:
+
+  - sfdx force:source:push --json --loglevel fatal
+
   - sfdx force:config:set defaultusername={ALIAS}
   - sfdx update
   - sfdx auth:web:login -d -a DevHub
