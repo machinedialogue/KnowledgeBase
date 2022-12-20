@@ -1,6 +1,6 @@
 Text file col to row: 
 
-awk '{for(i=1;i<=NF;i++) printf "%s\n",$i}'
+awk '{for(i=1;i<=NF;i++) printf "%s\n",$i}' input
 
 https://webhostinggeeks.com/howto/how-to-disable-selinux-on-rhel-7centos-7/
 
