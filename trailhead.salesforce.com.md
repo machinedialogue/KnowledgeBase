@@ -64,6 +64,9 @@ Commands:
   
 <b>Ref:</b>
   
+  - Salesforce Field Reference Guide  
+      - https://developer.salesforce.com/docs/atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference_Contact.htm
+  
     combine date and time field with formula
     DATETIMEVALUE( TEXT(Start_Date__c)&' '& LEFT(TEXT( Start_Time__c ), 8) )
   
