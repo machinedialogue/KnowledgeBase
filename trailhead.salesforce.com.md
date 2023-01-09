@@ -21,7 +21,7 @@ Q:
 Commands:
 
   - sfdx force:source:push --json --loglevel fatal
-
+  - sfdx force:source:push --json --loglevel fatal --forceoverwrite
   - sfdx force:config:set defaultusername={ALIAS}
   - sfdx update
   - sfdx auth:web:login -d -a DevHub
