@@ -4,6 +4,7 @@ Hands-On Orgs
   - https://trailhead.salesforce.com/users/profiles/orgs
 
 Q:
+  - https://architect.salesforce.com/
   - https://focusonforce.com/catalog/ 
   - https://jestjs.io/docs/mock-functions
   - SF community in Dhaka
