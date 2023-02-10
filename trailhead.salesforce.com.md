@@ -65,6 +65,8 @@ Commands:
   
 <b>Ref:</b>
   
+  - https://cafeforce.com/upload-file-in-chunks-multi-parts-remove-button-lwc-salesforce/
+  
   - Salesforce Field Reference Guide  
       - https://developer.salesforce.com/docs/atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference_Contact.htm
   
