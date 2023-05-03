@@ -1,3 +1,7 @@
+The History of Artificial Intelligence
+  - https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/#:~:text=In%20the%201980's%2C%20AI%20was,computers%20to%20learn%20using%20experience.
+
+
 TDD - ARRANGE-ACT-ASSERT: A PATTERN FOR WRITING GOOD TESTS
 
 Unit Testing on the Lightning Platform
