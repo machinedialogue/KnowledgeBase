@@ -65,6 +65,9 @@ Commands:
   
 <b>Ref:</b>
   
+  - Apex Developer Guide
+    -https://developer.salesforce.com/docs/atlas.en-us.210.0.apexcode.meta/apexcode/apex_dev_guide.htm
+  
   - https://cafeforce.com/upload-file-in-chunks-multi-parts-remove-button-lwc-salesforce/
   
   - Salesforce Field Reference Guide  
