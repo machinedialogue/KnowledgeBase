@@ -1,3 +1,7 @@
+6/23/23:
+  - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+  - https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
+
 The History of Artificial Intelligence
   - https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/#:~:text=In%20the%201980's%2C%20AI%20was,computers%20to%20learn%20using%20experience.
 
