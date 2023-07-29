@@ -8,3 +8,4 @@ psql -
 
   - SELECT version();
   - \l      view all of the defined databases on the server
+  - \dt - list tables
