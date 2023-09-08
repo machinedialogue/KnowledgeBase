@@ -1,3 +1,14 @@
+
+CKAD:
+ - https://github.com/bmuschko/ckad-prep
+ - https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
+ - https://levelup.gitconnected.com/how-i-passed-the-ckad-exam-certified-kubernetes-application-developer-90227a0f9040
+   - https://www.devopsmadness.com/cka_cheatsheet/
+   - https://www.udemy.com/course/certified-kubernetes-application-developer/ 
+
+
+
+
 commands:
  - kubectl get ns
  - kubectl port-forward svc/hello-service -n hello-namespace 80:80
