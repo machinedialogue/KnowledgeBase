@@ -21,6 +21,7 @@ Q:
 
 Commands:
 
+  - sfdx force:org:open
   - sfdx force:source:push --json --loglevel fatal
   - sfdx force:source:push --json --loglevel fatal --forceoverwrite
   - sfdx force:config:set defaultusername={ALIAS}
