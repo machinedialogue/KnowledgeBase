@@ -64,6 +64,10 @@ sudo docker run -it --rm -v `pwd`:`pwd` -w `pwd` node bash
 
 <b>Ref: </b>
 
+https://goharbor.io/docs/1.10/working-with-projects/working-with-images/pulling-pushing-images/
+ - docker tag ubuntu:14.04 <harbor_address>/demo/ubuntu:14.04
+ - docker push <harbor_address>/demo/ubuntu:14.04
+
 https://stackoverflow.com/questions/24309526/how-to-change-the-docker-image-installation-directory
 
 https://stackoverflow.com/questions/19234831/where-are-docker-images-stored-on-the-host-machine
