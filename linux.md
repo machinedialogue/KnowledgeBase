@@ -18,3 +18,7 @@ Linux Disk Space
  - df –h
  - df
  - sudo du -h / | grep [0-9]G
+
+Ref:
+
+ - https://en.wikipedia.org/wiki/Cron
