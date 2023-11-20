@@ -12,6 +12,8 @@ https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate
 
 <b>Ref:</b>
 
+https://aws.amazon.com/architecture/icons/
+
 Importing and exporting SQL Server databases
 - https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/SQLServer.Procedural.Importing.html
 
