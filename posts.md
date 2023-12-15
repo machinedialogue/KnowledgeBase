@@ -1,7 +1,10 @@
+12/15/23:
+
+dod cert and ff
+
 12/5/23:
 
 https://stackoverflow.com/questions/1230233/how-to-find-the-sum-of-an-array-of-numbers
-
 
 6/23/23:
   - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
