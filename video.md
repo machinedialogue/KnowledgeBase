@@ -1,3 +1,6 @@
+- What are Cipher Suites? - Practical TLS
+  - https://www.youtube.com/watch?v=P1v6QA0W7Xw
+ 
  - Terraform
 
 3/23/22:
