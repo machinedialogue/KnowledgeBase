@@ -13,8 +13,8 @@ Ref:
 https://stackoverflow.com/questions/9577611/http-get-request-in-node-js-express
 
 Q:
-
-https://stackoverflow.com/questions/13052548/node-js-how-to-attach-to-a-running-process-and-to-debug-the-server-with-a-conso
+- https://nodejs.org/api/tls.html
+ - https://stackoverflow.com/questions/13052548/node-js-how-to-attach-to-a-running-process-and-to-debug-the-server-with-a-conso
 
  - Passport.js
    - https://github.com/iamshaunjp/oauth-playlist 
