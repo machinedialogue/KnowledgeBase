@@ -1,3 +1,9 @@
+
+4/26/24:
+
+ - NGINX Explained in 100 Seconds
+   - https://www.youtube.com/watch?v=JKxlsvZXG7c
+
 12/15/23:
 
 dod cert and ff
