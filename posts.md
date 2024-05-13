@@ -1,3 +1,18 @@
+5/13/24:
+
+https://www.databricks.com/resources/learn/training/generative-ai-fundamentals?scid=7018Y000001Fi0MQAS&utm_medium=paid+search&utm_source=google&utm_campaign=20398881965&utm_adgroup=146898983650&utm_content=training&utm_offer=generative-ai-fundamentals&utm_ad=667123197758&utm_term=generative%20ai%20certification&gad_source=1&gclid=CjwKCAjwrvyxBhAbEiwAEg_KgqgrYDBUR4ypCIIOAVRn9DYvuOx1ByitLD_nqVHPg7aLcC3TfvnOthoCjqgQAvD_BwE
+
+
+https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools/how-to-work-with-ai?autoSkip=true&resume=false
+
+
+https://aws.amazon.com/what-is/retrieval-augmented-generation/
+
+https://aws.amazon.com/what-is/large-language-model/
+
+
+
+
 
 4/26/24:
 
