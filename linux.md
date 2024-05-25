@@ -8,6 +8,10 @@ Text file col to row:
 
 awk '{for(i=1;i<=NF;i++) printf "%s\n",$i}' input
 
+Text file field select :
+
+cat u_ex240523.log | awk '{printf "%s\t %s\t %s\n",$1, $2, $22}'
+
 https://webhostinggeeks.com/howto/how-to-disable-selinux-on-rhel-7centos-7/
 
 find files: 
