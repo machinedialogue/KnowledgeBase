@@ -1,3 +1,6 @@
+<b>Creating a Forward Proxy Using Application Request Routing
+ - https://learn.microsoft.com/en-us/iis/extensions/configuring-application-request-routing-arr/creating-a-forward-proxy-using-application-request-routing
+
 <b>Reverse Proxy with URL Rewrite v2 and Application Request Routing</b>
 
 
