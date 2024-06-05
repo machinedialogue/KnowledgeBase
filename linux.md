@@ -26,3 +26,5 @@ Linux Disk Space
 Ref:
 
  - https://en.wikipedia.org/wiki/Cron
+ - https://www.redhat.com/sysadmin/linux-delete-file-rm
+ - https://www.redhat.com/sysadmin/recover-file-deletion-linux
