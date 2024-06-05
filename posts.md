@@ -1,3 +1,7 @@
+6/5/24:
+
+https://learn.microsoft.com/en-us/iis/extensions/configuring-application-request-routing-arr/creating-a-forward-proxy-using-application-request-routing
+
 5/13/24:
 
 https://www.databricks.com/resources/learn/training/generative-ai-fundamentals?scid=7018Y000001Fi0MQAS&utm_medium=paid+search&utm_source=google&utm_campaign=20398881965&utm_adgroup=146898983650&utm_content=training&utm_offer=generative-ai-fundamentals&utm_ad=667123197758&utm_term=generative%20ai%20certification&gad_source=1&gclid=CjwKCAjwrvyxBhAbEiwAEg_KgqgrYDBUR4ypCIIOAVRn9DYvuOx1ByitLD_nqVHPg7aLcC3TfvnOthoCjqgQAvD_BwE
