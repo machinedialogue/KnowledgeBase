@@ -16,6 +16,10 @@ print rest of the fields:
 
 awk '{printf $1;  for(i=3;i<=NF;i++){printf " %s", $i} printf "\n"}' < file
 
+find-frequency-of-occurrences-of-strings
+
+sort file | uniq -c 
+
 https://webhostinggeeks.com/howto/how-to-disable-selinux-on-rhel-7centos-7/
 
 find files: 
