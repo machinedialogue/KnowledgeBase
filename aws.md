@@ -12,6 +12,9 @@ https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate
 
 <b>Ref:</b>
 
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-mac-instances.html
+
+
 https://aws.amazon.com/architecture/icons/
 
 Importing and exporting SQL Server databases
