@@ -8,6 +8,7 @@ psql -
   - SELECT version();
   - \l      view all of the defined databases on the server
   - \dt - list tables
+  - \d - list fields in table
 
 
 https://stackoverflow.com/questions/2757549/org-postgresql-util-psqlexception-fatal-sorry-too-many-clients-already
