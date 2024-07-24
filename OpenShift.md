@@ -35,4 +35,7 @@ Q:
  - ConfigMaps and Secrets w/ OpenShift
     - https://stackoverflow.com/questions/13052548/node-js-how-to-attach-to-a-running-process-and-to-debug-the-server-with-a-conso
 
+Ref: 
+
+https://developers.redhat.com/articles/2024/04/29/how-install-single-node-openshift-aws#
 
