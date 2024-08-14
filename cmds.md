@@ -1,3 +1,6 @@
+
+netstat -aof | findstr :8080 
+
 PS:
 
 list the reserved port ranges windows:
