@@ -1,3 +1,9 @@
+9/19/24:
+
+Salesforce Big Objects:
+
+https://trailhead.salesforce.com/content/learn/modules/big_objects/big_objects_get_started?trailmix_creator_id=strailhead&trailmix_slug=architect-data-architecture-and-management
+
 8/5/24:
 
 k8s circuit breaker
