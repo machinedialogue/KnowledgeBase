@@ -1,3 +1,10 @@
+9/24/24:
+
+https://trailhead.salesforce.com/en/credentials/applicationarchitect
+
+https://www.linkedin.com/pulse/my-journey-become-salesforce-certified-application-purusottam-kaushik/
+
+
 9/19/24:
 
 Salesforce Big Objects:
