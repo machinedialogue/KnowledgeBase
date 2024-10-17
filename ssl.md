@@ -2,6 +2,10 @@ cmds:
   -  Get-ItemPropertyValue -Path HKLM:\SYSTEM\CurrentControlSet\Control\Cryptography\Configuration\Local\SSL\00010002 -Name Functions
 
 Ref: 
+
+- from node terminal:
+  - tls.getCiphers()
+    
 - https://www.ssllabs.com/ssltest/analyze.html?d=www.google.com&s=142.250.189.4&hideResults=on&ignoreMismatch=on
 - https://techcommunity.microsoft.com/t5/windows-server-essentials-and/installing-a-self-signed-certificate-as-a-trusted-root-ca-in/ba-p/396105
 - https://community.sap.com/t5/technology-blogs-by-members/how-to-troubleshoot-client-certificate-authentication-for-inbound/ba-p/13503601
