@@ -13,3 +13,6 @@ psql -
 
 https://stackoverflow.com/questions/2757549/org-postgresql-util-psqlexception-fatal-sorry-too-many-clients-already
 https://stackoverflow.com/questions/17963348/how-to-disconnect-from-a-database-and-go-back-to-the-default-database-in-postgre
+
+Ref:
+ -  https://www.postgresql.org/docs/current/encryption-options.html
