@@ -1,4 +1,5 @@
 - Q
+    - https://skillbuilder.aws/generative-ai  
     -  https://www.challenge.gov/
     -  vector db
       - Postgres pgvector Extension - Vector Database with PostgreSQL / Langchain Integration
