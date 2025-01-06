@@ -13,7 +13,7 @@ https://trailhead.salesforce.com/content/learn/modules/big_objects/big_objects_g
 
 8/5/24:
 
-k8s circuit breaker
+k8s circuit breaker (custom) and esf shutdown
 
 6/5/24:
 
