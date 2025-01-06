@@ -1,3 +1,17 @@
+
+1/6/25:
+
+Running k8s app production > year - lesson learned
+  
+  istio inspired k8s circuit breaker (I like to sleed at night)
+   retry 
+   temp shutdown
+
+  next
+  logging
+  istio
+  caching
+
 9/24/24:
 
 https://trailhead.salesforce.com/en/credentials/applicationarchitect
