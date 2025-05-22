@@ -1,4 +1,6 @@
 
+https://kubernetes.io/docs/tutorials/hello-minikube/
+
 CKAD:
  - https://github.com/bmuschko/ckad-prep
  - https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
