@@ -1,4 +1,7 @@
 - Q
+    - https://ai.google.dev/gemini-api/docs/video?example=dialogue
+    - https://docs.langchain.com/oss/python/langchain/quickstart
+    
     - https://skillbuilder.aws/generative-ai  
     -  https://www.challenge.gov/
     -  vector db
