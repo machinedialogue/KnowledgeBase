@@ -1,4 +1,5 @@
 - Q
+    - https://aistudio.google.com/apps/bundled/live_audio?showPreview=true&showAssistant=true 
     - https://aistudio.google.com/apps/bundled/angular_example?showAssistant=true&showCode=true 
     - https://ai.google.dev/gemini-api/docs/video?example=dialogue
     - https://docs.langchain.com/oss/python/langchain/quickstart
