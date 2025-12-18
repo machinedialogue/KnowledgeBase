@@ -1,5 +1,9 @@
 <b>Q:</b>
 
+https://developer.chrome.com/blog/new-in-devtools-143/?utm_source=devtools&utm_campaign=stable#mcp-server
+
+
+
 https://developers.redhat.com/articles/2021/12/16/elegant-way-performance-test-microservices-kubernetes
 
 - Terraform
