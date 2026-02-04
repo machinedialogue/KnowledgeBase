@@ -1,5 +1,9 @@
 <b>Q:</b>
 
+
+https://code.visualstudio.com/docs/copilot/overview
+
+
 https://developer.chrome.com/blog/new-in-devtools-143/?utm_source=devtools&utm_campaign=stable#mcp-server
 
 
