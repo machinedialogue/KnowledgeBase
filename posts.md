@@ -1,3 +1,8 @@
+2/17/26:
+
+https://github.com/google-gemini/gemini-cli/blob/main/docs/architecture.md
+
+
 12/22/25:
 
 https://appian.com/products/platform/artificial-intelligence/ai-agents
