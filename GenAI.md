@@ -4,6 +4,7 @@
 
 
 - Q
+    - https://github.com/microsoft/playwright-mcp 
     - https://www.kaggle.com/learn-guide/5-day-genai 
     - https://aistudio.google.com/apps/bundled/live_audio?showPreview=true&showAssistant=true 
     - https://aistudio.google.com/apps/bundled/angular_example?showAssistant=true&showCode=true 
