@@ -1,3 +1,8 @@
+- OplenClaw:
+    - https://www.youtube.com/watch?v=5heqpW5-S9w&list=PLQIrDlInre8KqnlaGDEGQA6nGq4d7Ydyf&index=266&t=13s
+        - models are good at calling unix commands
+
+
 - Q
     - https://www.kaggle.com/learn-guide/5-day-genai 
     - https://aistudio.google.com/apps/bundled/live_audio?showPreview=true&showAssistant=true 
@@ -17,3 +22,5 @@
     - https://www.asksage.ai/
  
     - https://www.docker.com/blog/supercharging-ai-ml-development-with-jupyterlab-and-docker/
+ 
+  
