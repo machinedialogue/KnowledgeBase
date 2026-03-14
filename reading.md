@@ -1,5 +1,7 @@
 <b>Q:</b>
 
+https://developer.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows
+
 
 https://code.visualstudio.com/docs/copilot/overview
 
