@@ -4,6 +4,11 @@
 
 
 - Q
+
+    - Introducing ElevenLabs for Government 
+        - https://elevenlabs.io/blog/introducing-elevenlabs-for-government?_gl=1*1x0318v*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwm6POBhCrARIsAIG58CJ8OeiTnb-R3cJsYEFIhh928rH0pkpToirzktz8C8bB9VsYhJ63tBcaAsMXEALw_wcB&gbraid=0AAAAAp9ksTEWR4nvy0rzLLfmPPRTdgk78
+ 
+    -  
     - https://github.com/microsoft/playwright-mcp 
     - https://www.kaggle.com/learn-guide/5-day-genai 
     - https://aistudio.google.com/apps/bundled/live_audio?showPreview=true&showAssistant=true 
